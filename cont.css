@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(0, 121, 129);
+    color: rgb(90, 6, 6);
+}
+h1{
+    padding-top: 30px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.contact-form{
+    padding-top: 20px;
+}
+.form-control{
+    border-radius: 16px;
+    border: none !important;
+}
+::placeholder{
+    color: none !important;
+}
+.follow{
+  background: #fff;
+  padding: 10px;
+  margin: 15px;
+}
+.contact-info .fa{
+  font-weight: bold;
+  margin: 8px;
+  color: #007bff;
+}.pagination a{
+    padding: 30px;
+    padding-left: 65px;
+    float: left;
+    font-size: small;
+}
+.pagination li{
+    display: inline;
+}
+
+
+/*--
+=========================================
+Footer
+========================================
+--*/
+#footer{
+padding-top: 10px;
+padding-bottom: 5px;
+background: rgb(5, 19, 56);
+color: #fff;
+}
+p{
+font-size: 15px;
+padding-top: 5px;
+}
+.container{
+padding-bottom: 7px;
+}
+/*-----=================================== 
+End 
+==================================-----------*/
+
+
+
